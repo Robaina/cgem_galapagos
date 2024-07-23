@@ -1,0 +1,31 @@
+Here is a list of microbial species and families mentioned in the paper:
+
+Cyanobacteria:
+- Synechococcus (Synechococcaceae)
+- Prochlorococcus (Prochloraceae)
+
+SAR11 clade:
+- Pelagibacter ubique (Pelagibacteraceae)
+- SAR11 strains RS39 and HIMB59 (Pelagibacteraceae)
+
+Roseobacter clade:
+- HTCC2255 (Rhodobacteraceae)
+- HIMB11 (Rhodobacteraceae) 
+- SB2 (Rhodobacteraceae)
+- Amylibacter marinus (Rhodobacteraceae)
+
+Flavobacteria:
+- Flavobacteria sp. MS024-2A (Flavobacteriaceae)
+- Nonlabens species (Flavobacteriaceae)
+- Arenibacter species (Flavobacteriaceae)
+- Formosa species (Flavobacteriaceae)
+- Tenacibaculum species (Flavobacteriaceae)
+- Polaribacter species (Flavobacteriaceae)
+- Leeuwenhoekiella species (Flavobacteriaceae)
+
+Other bacteria:
+- Thioglobus species (Thioglobaceae)
+- Methylophilaceae species
+
+Archaea:
+- Nitrosopumilaceae species

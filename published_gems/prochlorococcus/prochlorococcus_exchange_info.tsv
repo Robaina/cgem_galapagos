@@ -1,0 +1,26 @@
+Exchange ID                         	Exchange Name                                       	Metabolite Name
+AminosugarsEX                       	Fake Amino Sugars Exchange                          	Amino sugars pool
+FAKEAAEX                            	Fake Amino Acids Exchange                           	amino_acid_pool_e
+FAKEacpEX                           	Fake acp Exchange                                   	Acyl-carrier protein
+FAKEApoacpEX                        	Fake Apo acp Exchange                               	Apo-(acyl-carrier-protein)
+FAKEThioredoxinEX                   	Fake Thioredoxin Exchange                           	Thioredoxin
+FreefattyacidsEX                    	Fake Free fatty acids Exchange                      	Free fatty acids
+ArtificialproteinEX                 	Fake Artificial_protein Exchange                    	Artificial Protein biomass precursor
+FADEX                               	Fake FAD Exchange                                   	FAD
+LipoylproteinEX                     	Fake Lipoylprotein Exchange                         	Lipoylprotein
+MenaquinoneEX                       	Fake Menaquinone Exchange                           	Menaquinone
+NicotinateEX                        	Fake Nicotinate Exchange                            	Nicotinate
+SAdenosyl4methylthio2oxobutanoateEX 	Fake S-Adenosyl-4-methylthio-2-oxobutanoate Release 	S-Adenosyl-4-methylthio-2-oxobutanoate
+SMethyl5thioDriboseEX               	Fake S_Methyl_5_thio_D_ribose Release               	S-Methyl-5-thio-D-ribose
+NAcetylornithineEX                  	Fake N_Acetylornithine Exchange                     	N-Acetylornithine
+THFpolyglutEX                       	Fake THF polyglutamate Exchange                     	THF-polyglutamate
+tRNAEX                              	Fake tRNA Exchange                                  	tRNA
+BiomassEX                           	Biomass Exchange                                    	Biomass
+PhospholipidEX                      	Phospholipid Exchange                               	sn-Glycerol 3-phosphate
+LPSEX                               	Lipopolysaccharide Exchange                         	Lipid A disaccharide
+4_Methyl_2_oxopentanoateEX          	4_Methyl_2_oxopentanoateEX                          	4_Methyl_2_oxopentanoate[e]
+PantothenateEX                      	PantothenateEX                                      	Pantothenate[e]
+5_MethylthioadenosineEX             	5_MethylthioadenosineEX                             	5_Methylthioadenosine[e]
+AdenineEX                           	AdenineEX                                           	Adenine[e]
+DethiobiotinEX                      	DethiobiotinEX                                      	Dethiobiotin[e]
+GuanineEX                           	GuanineEX                                           	Guanine[e]

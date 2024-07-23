@@ -1,0 +1,332 @@
+	taxon	sample_id	tolerance	reaction	flux	abundance	metabolite	direction
+1	medium	galapagos	1.1e-06	EX_nmn_m	-0.0887112391927232		nmn_m	import
+6	medium	galapagos	1.1e-06	EX_ade_m	-0.024372747239545578		ade_m	import
+7	medium	galapagos	1.1e-06	EX_bz_m	-0.0006643686616880782		bz_m	import
+13	medium	galapagos	1.1e-06	EX_mg2_m	-0.016833990909170225		mg2_m	import
+14	medium	galapagos	1.1e-06	EX_fe3dcit_m	-0.1		fe3dcit_m	import
+16	medium	galapagos	1.1e-06	EX_ca2_m	-0.003637687183623142		ca2_m	import
+19	medium	galapagos	1.1e-06	EX_ura_m	-0.028499165200017856		ura_m	import
+22	medium	galapagos	1.1e-06	EX_ch4s_m	0.020285959910094676		ch4s_m	export
+48	medium	galapagos	1.1e-06	EX_co2_m	10.605979916220072		co2_m	export
+49	medium	galapagos	1.1e-06	EX_LalaDgluMdap_m	0.07843047492697046		LalaDgluMdap_m	export
+51	medium	galapagos	1.1e-06	EX_cobalt2_m	-0.0001593793720689252		cobalt2_m	import
+55	medium	galapagos	1.1e-06	EX_gln__L_m	-0.1		gln__L_m	import
+63	medium	galapagos	1.1e-06	EX_sel_m	-0.006553696759604133		sel_m	import
+72	medium	galapagos	1.1e-06	EX_h2o_m	10.111858253814136		h2o_m	export
+73	medium	galapagos	1.1e-06	EX_cl_m	-0.0217608428073509		cl_m	import
+81	medium	galapagos	1.1e-06	EX_ac_m	-0.1		ac_m	import
+82	medium	galapagos	1.1e-06	EX_met__L_m	-0.040114272129315634		met__L_m	import
+85	medium	galapagos	1.1e-06	EX_nac_m	0.05410653363812882		nac_m	export
+86	medium	galapagos	1.1e-06	EX_gcald_m	0.0005177607170708143		gcald_m	export
+88	medium	galapagos	1.1e-06	EX_k_m	-0.058433883100522624		k_m	import
+93	medium	galapagos	1.1e-06	EX_pydxn_m	-1.9142176286148142e-05		pydxn_m	import
+101	medium	galapagos	1.1e-06	EX_thymd_m	-0.002270859373090171		thymd_m	import
+106	medium	galapagos	1.1e-06	EX_cellb_m	0.006498983096699407		cellb_m	export
+110	medium	galapagos	1.1e-06	EX_glyphe_m	-0.04365965601910655		glyphe_m	import
+112	medium	galapagos	1.1e-06	EX_his__L_m	-0.1		his__L_m	import
+113	medium	galapagos	1.1e-06	EX_phe__L_m	-0.030286885558136502		phe__L_m	import
+118	medium	galapagos	1.1e-06	EX_fe2_m	0.09598268136061569		fe2_m	export
+121	medium	galapagos	1.1e-06	EX_14glucan_m	-0.1		14glucan_m	import
+125	medium	galapagos	1.1e-06	EX_fol_m	-5.7426528858444426e-05		fol_m	import
+134	medium	galapagos	1.1e-06	EX_leu__L_m	-0.1		leu__L_m	import
+138	medium	galapagos	1.1e-06	EX_fuc_m	-0.1		fuc_m	import
+142	medium	galapagos	1.1e-06	EX_glygln_m	-0.1		glygln_m	import
+146	medium	galapagos	1.1e-06	EX_cu2_m	-0.00019007599507580908		cu2_m	import
+151	medium	galapagos	1.1e-06	EX_gthrd_m	-0.1		gthrd_m	import
+154	medium	galapagos	1.1e-06	EX_orn_m	-0.1		orn_m	import
+155	medium	galapagos	1.1e-06	EX_glcur_m	-0.1		glcur_m	import
+157	medium	galapagos	1.1e-06	EX_3amp_m	-0.038383784766543944		3amp_m	import
+161	medium	galapagos	1.1e-06	EX_alltn_m	-0.04256773802473184		alltn_m	import
+170	medium	galapagos	1.1e-06	EX_glyb_m	-0.1		glyb_m	import
+175	medium	galapagos	1.1e-06	EX_4ahmmp_m	-1.9138542897603275e-05		4ahmmp_m	import
+176	medium	galapagos	1.1e-06	EX_malthp_m	-0.1		malthp_m	import
+177	medium	galapagos	1.1e-06	EX_o2_m	-11.515241737826308		o2_m	import
+185	medium	galapagos	1.1e-06	EX_lnlc_m	-0.053299017440998846		lnlc_m	import
+191	medium	galapagos	1.1e-06	EX_ribflv_m	-3.829114766266941e-05		ribflv_m	import
+193	medium	galapagos	1.1e-06	EX_gly_asn__L_m	-0.1		gly_asn__L_m	import
+195	medium	galapagos	1.1e-06	EX_photon_m	-10.759351731170886		photon_m	import
+197	medium	galapagos	1.1e-06	EX_ser__D_m	-0.1		ser__D_m	import
+198	medium	galapagos	1.1e-06	EX_xtsn_m	-0.1		xtsn_m	import
+202	medium	galapagos	1.1e-06	EX_25dkglcn_m	-0.1		25dkglcn_m	import
+204	medium	galapagos	1.1e-06	EX_lys__L_m	-0.1		lys__L_m	import
+209	medium	galapagos	1.1e-06	EX_ile__L_m	-0.1		ile__L_m	import
+215	medium	galapagos	1.1e-06	EX_zn2_m	-0.00010359523353477091		zn2_m	import
+216	medium	galapagos	1.1e-06	EX_tyr__L_m	-0.03380674480596598		tyr__L_m	import
+219	medium	galapagos	1.1e-06	EX_ppap_m	0.0731593039676695		ppap_m	export
+220	medium	galapagos	1.1e-06	EX_tet_m	-0.01069180318018817		tet_m	import
+222	medium	galapagos	1.1e-06	EX_gua_m	0.07142286817281591		gua_m	export
+226	medium	galapagos	1.1e-06	EX_d23hb_m	0.09999141606444567		d23hb_m	export
+227	medium	galapagos	1.1e-06	EX_ncam_m	0.03421358674397675		ncam_m	export
+228	medium	galapagos	1.1e-06	EX_glu__L_m	-0.1		glu__L_m	import
+235	medium	galapagos	1.1e-06	EX_dxyl_m	-0.09452787953586378		dxyl_m	import
+238	medium	galapagos	1.1e-06	EX_arg__L_m	-0.1		arg__L_m	import
+241	medium	galapagos	1.1e-06	EX_for_m	2.174792989902023		for_m	export
+242	medium	galapagos	1.1e-06	EX_acnam_m	-0.1		acnam_m	import
+243	medium	galapagos	1.1e-06	EX_dad_2_m	-0.004565194445857473		dad_2_m	import
+244	medium	galapagos	1.1e-06	EX_fe3_m	-0.00013748736568754412		fe3_m	import
+249	medium	galapagos	1.1e-06	EX_adn_m	-0.03379263661477893		adn_m	import
+250	medium	galapagos	1.1e-06	EX_g3pg_m	-0.1		g3pg_m	import
+254	medium	galapagos	1.1e-06	EX_chor_m	-0.1		chor_m	import
+258	medium	galapagos	1.1e-06	EX_pro__L_m	-0.1		pro__L_m	import
+259	medium	galapagos	1.1e-06	EX_ptsla_m	-0.1		ptsla_m	import
+264	medium	galapagos	1.1e-06	EX_hxan_m	-0.1		hxan_m	import
+265	medium	galapagos	1.1e-06	EX_pi_m	-0.06745693472571207		pi_m	import
+268	medium	galapagos	1.1e-06	EX_h_m	2.2202647856775117		h_m	export
+271	medium	galapagos	1.1e-06	EX_asn__L_m	-0.1		asn__L_m	import
+273	medium	galapagos	1.1e-06	EX_nh4_m	1.052169668325368		nh4_m	export
+275	medium	galapagos	1.1e-06	EX_S_Adenosyl_4_methylthio_2_oxobutanoate_m	0.00039971554670781306		S_Adenosyl_4_methylthio_2_oxobutanoate_m	export
+276	medium	galapagos	1.1e-06	EX_thm_m	-0.00016772792938544724		thm_m	import
+280	medium	galapagos	1.1e-06	EX_acald_m	-0.1		acald_m	import
+281	medium	galapagos	1.1e-06	EX_LalaDgluMdapDala_m	-0.08701278115907955		LalaDgluMdapDala_m	import
+283	medium	galapagos	1.1e-06	EX_4hphac_m	-0.1		4hphac_m	import
+286	medium	galapagos	1.1e-06	EX_na1_m	-0.038288529406153765		na1_m	import
+288	medium	galapagos	1.1e-06	EX_cys__L_m	-0.1		cys__L_m	import
+289	medium	galapagos	1.1e-06	EX_glymet_m	-0.0467258636468974		glymet_m	import
+292	medium	galapagos	1.1e-06	EX_hishis_m	-0.008132198768309699		hishis_m	import
+305	medium	galapagos	1.1e-06	EX_cytd_m	-0.02614915703978934		cytd_m	import
+317	medium	galapagos	1.1e-06	EX_diact_m	-0.1		diact_m	import
+320	medium	galapagos	1.1e-06	EX_asp__D_m	-0.1		asp__D_m	import
+321	medium	galapagos	1.1e-06	EX_cit_m	-0.1		cit_m	import
+322	medium	galapagos	1.1e-06	EX_urea_m	0.003916483321190983		urea_m	export
+331	medium	galapagos	1.1e-06	EX_trp__L_m	-0.017659014934685902		trp__L_m	import
+335	medium	galapagos	1.1e-06	EX_progly_m	-0.1		progly_m	import
+340	medium	galapagos	1.1e-06	EX_gam_m	-0.017170918234380897		gam_m	import
+343	medium	galapagos	1.1e-06	EX_glyc2p_m	-0.1		glyc2p_m	import
+344	medium	galapagos	1.1e-06	EX_h2o2_m	0.009419734742545828		h2o2_m	export
+345	medium	galapagos	1.1e-06	EX_mn2_m	-0.00017794425324405607		mn2_m	import
+347	medium	galapagos	1.1e-06	EX_hco3_m	-0.7414174391077492		hco3_m	import
+353	medium	galapagos	1.1e-06	EX_R3hdec4e_m	-0.1		R3hdec4e_m	import
+361	medium	galapagos	1.1e-06	EX_so4_m	-0.014449748407283077		so4_m	import
+364	medium	galapagos	1.1e-06	EX_thr__L_m	-0.1		thr__L_m	import
+368	medium	galapagos	1.1e-06	EX_h2s_m	0.184547928179928		h2s_m	export
+375	medium	galapagos	1.1e-06	EX_meoh_m	-0.1		meoh_m	import
+376	medium	galapagos	1.1e-06	EX_4hba_m	1.9138542897603275e-05		4hba_m	export
+379	prochlorococcus	galapagos	1.1e-06	EX_na1_e	-0.19144259596578378	0.2	na1_e	import
+381	prochlorococcus	galapagos	1.1e-06	EX_thymd_e	-0.00012393397972546735	0.2	thymd_e	import
+384	prochlorococcus	galapagos	1.1e-06	EX_ile__L_e	-0.09071222213492457	0.2	ile__L_e	import
+385	prochlorococcus	galapagos	1.1e-06	EX_his__L_e	-0.055636065770624715	0.2	his__L_e	import
+388	prochlorococcus	galapagos	1.1e-06	EX_co2_e	8.314558718017494	0.2	co2_e	export
+389	prochlorococcus	galapagos	1.1e-06	EX_co_e	3.651354781839672e-06	0.2	co_e	export
+390	prochlorococcus	galapagos	1.1e-06	EX_lys__L_e	-0.1629557318192151	0.2	lys__L_e	import
+391	prochlorococcus	galapagos	1.1e-06	EX_gln__L_e	0.05626749920406238	0.2	gln__L_e	export
+396	prochlorococcus	galapagos	1.1e-06	EX_k_e	-0.04084116393373365	0.2	k_e	import
+397	prochlorococcus	galapagos	1.1e-06	EX_cl_e	-0.10210233387658581	0.2	cl_e	import
+398	prochlorococcus	galapagos	1.1e-06	EX_ser__L_e	-5.478349266173853	0.2	ser__L_e	import
+401	prochlorococcus	galapagos	1.1e-06	EX_pi_e	-0.1546211372589776	0.2	pi_e	import
+403	prochlorococcus	galapagos	1.1e-06	EX_gcald_e	0.0025888035853540714	0.2	gcald_e	export
+404	prochlorococcus	galapagos	1.1e-06	EX_spmd_e	-0.019544832776974806	0.2	spmd_e	import
+406	prochlorococcus	galapagos	1.1e-06	EX_met__L_e	-0.13447119410726452	0.2	met__L_e	import
+408	prochlorococcus	galapagos	1.1e-06	EX_thm_e	-0.0006472008963398219	0.2	thm_e	import
+410	prochlorococcus	galapagos	1.1e-06	EX_etoh_e	-0.0002238131818962823	0.2	etoh_e	import
+411	prochlorococcus	galapagos	1.1e-06	EX_ade_e	-0.03419676538266229	0.2	ade_e	import
+412	prochlorococcus	galapagos	1.1e-06	EX_val__L_e	-0.1521156431222338	0.2	val__L_e	import
+414	prochlorococcus	galapagos	1.1e-06	EX_ac_e	-2.8992914993775534	0.2	ac_e	import
+415	prochlorococcus	galapagos	1.1e-06	EX_ca2_e	-0.011486555757947027	0.2	ca2_e	import
+416	prochlorococcus	galapagos	1.1e-06	EX_nh4_e	4.925585091590347	0.2	nh4_e	export
+418	prochlorococcus	galapagos	1.1e-06	EX_trp__L_e	-0.015104877950188701	0.2	trp__L_e	import
+419	prochlorococcus	galapagos	1.1e-06	EX_tsul_e	-0.10691803180188168	0.2	tsul_e	import
+421	prochlorococcus	galapagos	1.1e-06	EX_for_e	10.873964949510114	0.2	for_e	export
+423	prochlorococcus	galapagos	1.1e-06	EX_tyr__L_e	-0.0506541816486547	0.2	tyr__L_e	import
+424	prochlorococcus	galapagos	1.1e-06	EX_h2o2_e	0.04709867371272913	0.2	h2o2_e	export
+427	prochlorococcus	galapagos	1.1e-06	EX_pro__L_e	-0.1141117501640537	0.2	pro__L_e	import
+428	prochlorococcus	galapagos	1.1e-06	EX_phe__L_e	-0.07191928676706735	0.2	phe__L_e	import
+430	prochlorococcus	galapagos	1.1e-06	EX_meoh_e	0.001998577733539065	0.2	meoh_e	export
+431	prochlorococcus	galapagos	1.1e-06	EX_urea_e	0.019582416605954913	0.2	urea_e	export
+432	prochlorococcus	galapagos	1.1e-06	EX_arg__L_e	-0.16578773223754067	0.2	arg__L_e	import
+433	prochlorococcus	galapagos	1.1e-06	EX_photon_e	-53.79195052276421	0.2	photon_e	import
+434	prochlorococcus	galapagos	1.1e-06	EX_thr__L_e	-0.133671665644388	0.2	thr__L_e	import
+435	prochlorococcus	galapagos	1.1e-06	EX_h2o_e	13.018641181995681	0.2	h2o_e	export
+437	prochlorococcus	galapagos	1.1e-06	EX_zn2_e	-7.890966726703022e-05	0.2	zn2_e	import
+438	prochlorococcus	galapagos	1.1e-06	EX_fe2_e	-0.001386995585753495	0.2	fe2_e	import
+439	prochlorococcus	galapagos	1.1e-06	EX_gthrd_e	-0.46035875662919973	0.2	gthrd_e	import
+440	prochlorococcus	galapagos	1.1e-06	EX_cobalt2_e	-0.0006659425614703211	0.2	cobalt2_e	import
+445	prochlorococcus	galapagos	1.1e-06	EX_leu__L_e	-0.1816839895227034	0.2	leu__L_m	import
+448	prochlorococcus	galapagos	1.1e-06	EX_xtsn_e	-0.5	0.2	xtsn_e	import
+449	prochlorococcus	galapagos	1.1e-06	EX_mobd_e	-2.9591557193447576e-06	0.2	mobd_e	import
+450	prochlorococcus	galapagos	1.1e-06	EX_h2s_e	0.5017240191625364	0.2	h2s_e	export
+454	prochlorococcus	galapagos	1.1e-06	EX_hco3_e	-3.7070871955387457	0.2	hco3_e	import
+455	prochlorococcus	galapagos	1.1e-06	EX_cu2_e	-3.748217834550161e-05	0.2	cu2_e	import
+456	prochlorococcus	galapagos	1.1e-06	EX_o2_e	-4.086995017886439	0.2	o2_e	import
+457	prochlorococcus	galapagos	1.1e-06	EX_mg2_e	-0.06819202118868851	0.2	mg2_e	import
+462	prochlorococcus	galapagos	1.1e-06	EX_gua_e	0.47308280921881307	0.2	gua_e	export
+467	prochlorococcus	galapagos	1.1e-06	EX_bz_e	-0.0032360044816938933	0.2	bz_e	import
+468	prochlorococcus	galapagos	1.1e-06	SAdenosyl4methylthio2oxobutanoateEX	0.001998577733539065	0.2	S_Adenosyl_4_methylthio_2_oxobutanoate[e]	export
+469	prochlorococcus	galapagos	1.1e-06	EX_sel_e	-0.032768483798020664	0.2	sel_e	import
+472	prochlorococcus	galapagos	1.1e-06	EX_ptrc_e	0.019582416605954913	0.2	ptrc_e	export
+479	synechococcus	galapagos	1.1e-06	EX_so4_e	-0.0666631981104189	0.2	so4_e	import
+481	synechococcus	galapagos	1.1e-06	EX_gln__L_e	-0.5562674992040624	0.2	gln__L_e	import
+484	synechococcus	galapagos	1.1e-06	EX_pi_e	-0.18266353636958277	0.2	pi_e	import
+485	synechococcus	galapagos	1.1e-06	EX_spmd_e	-3.758382898010417e-05	0.2	spmd_e	import
+488	synechococcus	galapagos	1.1e-06	EX_nh4_e	-1.7207746720005148	0.2	nh4_e	import
+489	synechococcus	galapagos	1.1e-06	EX_meoh_e	-33.05867632927641	0.2	meoh_e	import
+491	synechococcus	galapagos	1.1e-06	EX_arg__L_e	-0.09953100090608234	0.2	arg__L_e	import
+492	synechococcus	galapagos	1.1e-06	EX_photon_e	-0.004808133090214801	0.2	photon_e	import
+493	synechococcus	galapagos	1.1e-06	EX_h2o_e	40.14407951957305	0.2	h2o_e	export
+496	synechococcus	galapagos	1.1e-06	EX_fe3_e	-0.0006874368284377206	0.2	fe3_e	import
+497	synechococcus	galapagos	1.1e-06	EX_cobalt2_e	-2.1957943561745642e-06	0.2	cobalt2_e	import
+498	synechococcus	galapagos	1.1e-06	EX_h_e	20.25527440148423	0.2	h_e	export
+499	synechococcus	galapagos	1.1e-06	EX_leu__L_e	0.22523995058715743	0.2	leu__L_m	export
+505	synechococcus	galapagos	1.1e-06	EX_o2_e	-24.170730680895755	0.2	o2_e	import
+506	synechococcus	galapagos	1.1e-06	EX_mg2_e	-0.004808133090214802	0.2	mg2_e	import
+509	roseobacter	galapagos	1.1e-06	EX_glyphe_e	-0.07952925416731443	0.2	glyphe_e	import
+513	roseobacter	galapagos	1.1e-06	EX_so4_e	-0.0018621860825186083	0.2	so4_e	import
+518	roseobacter	galapagos	1.1e-06	EX_ile__L_e	-0.02324351574685185	0.2	ile__L_e	import
+520	roseobacter	galapagos	1.1e-06	EX_tet_e	-0.05345901590094084	0.2	tet_e	import
+524	roseobacter	galapagos	1.1e-06	EX_lnlc_e	-0.2664950872049942	0.2	lnlc_e	import
+525	roseobacter	galapagos	1.1e-06	EX_co2_e	24.55962285018944	0.2	co2_e	export
+530	roseobacter	galapagos	1.1e-06	EX_lys__L_e	-0.14730973680570958	0.2	lys__L_e	import
+537	roseobacter	galapagos	1.1e-06	EX_glymet_e	-0.16754169820944256	0.2	glymet_e	import
+539	roseobacter	galapagos	1.1e-06	EX_ribflv_e	-0.00019145573831334703	0.2	ribflv_e	import
+547	roseobacter	galapagos	1.1e-06	EX_k_e	-0.08379107607308776	0.2	k_e	import
+550	roseobacter	galapagos	1.1e-06	EX_progly_e	-0.3102658210949738	0.2	progly_e	import
+551	roseobacter	galapagos	1.1e-06	EX_cl_e	-0.0022343657352488144	0.2	cl_e	import
+558	roseobacter	galapagos	1.1e-06	EX_spmd_e	0.019582416605954913	0.2	spmd_e	export
+565	roseobacter	galapagos	1.1e-06	EX_thm_e	-9.572786915667351e-05	0.2	thm_e	import
+567	roseobacter	galapagos	1.1e-06	EX_hishis_e	-0.020334230646109716	0.2	hishis_e	import
+569	roseobacter	galapagos	1.1e-06	EX_etoh_e	0.0002238131818962823	0.2	etoh_e	export
+576	roseobacter	galapagos	1.1e-06	EX_val__L_e	0.15211564312223377	0.2	val__L_e	export
+578	roseobacter	galapagos	1.1e-06	EX_glyc2p_e	-0.07685239503301955	0.2	glyc2p_e	import
+583	roseobacter	galapagos	1.1e-06	EX_ca2_e	-0.0022343657352488144	0.2	ca2_e	import
+586	roseobacter	galapagos	1.1e-06	EX_orn_e	-0.10440231466575418	0.2	orn_e	import
+588	roseobacter	galapagos	1.1e-06	EX_trp__L_e	-0.024401162629922833	0.2	trp__L_e	import
+589	roseobacter	galapagos	1.1e-06	EX_tsul_e	0.1069180318018817	0.2	tsul_e	export
+593	roseobacter	galapagos	1.1e-06	EX_gam_e	-0.08585459117190448	0.2	gam_e	import
+595	roseobacter	galapagos	1.1e-06	EX_3amp_e	-0.19191892383271972	0.2	3amp_e	import
+596	roseobacter	galapagos	1.1e-06	EX_tyr__L_e	-0.059195023521204704	0.2	tyr__L_e	import
+601	roseobacter	galapagos	1.1e-06	EX_malthp_e	-0.46750508451650297	0.2	malthp_e	import
+602	roseobacter	galapagos	1.1e-06	EX_asp__D_e	-0.1827433937574482	0.2	asp__D_e	import
+603	roseobacter	galapagos	1.1e-06	EX_pro__L_e	-0.3858882498359463	0.2	pro__L_e	import
+606	roseobacter	galapagos	1.1e-06	EX_meoh_e	32.55667775154287	0.2	meoh_e	export
+609	roseobacter	galapagos	1.1e-06	EX_mn2_e	-0.00029662761249893	0.2	mn2_e	import
+611	roseobacter	galapagos	1.1e-06	EX_arg__L_e	-0.05168890795284167	0.2	arg__L_e	import
+617	roseobacter	galapagos	1.1e-06	EX_thr__L_e	-0.14858571535183746	0.2	thr__L_e	import
+620	roseobacter	galapagos	1.1e-06	EX_h2o_e	-11.371524196039728	0.2	h2o_e	import
+626	roseobacter	galapagos	1.1e-06	EX_zn2_e	-0.00014638207794809714	0.2	zn2_e	import
+627	roseobacter	galapagos	1.1e-06	EX_fe2_e	0.4870639680686277	0.2	fe2_e	export
+628	roseobacter	galapagos	1.1e-06	EX_4hphac_e	-0.5	0.2	4hphac_e	import
+640	roseobacter	galapagos	1.1e-06	EX_cobalt2_e	-4.2927295585952244e-05	0.2	cobalt2_e	import
+641	roseobacter	galapagos	1.1e-06	EX_glyb_e	-0.5	0.2	glyb_e	import
+642	roseobacter	galapagos	1.1e-06	EX_nmn_e	-0.0009778837934484308	0.2	nmn_e	import
+647	roseobacter	galapagos	1.1e-06	EX_ppap_e	0.3464461457967962	0.2	ppap_e	export
+648	roseobacter	galapagos	1.1e-06	EX_h_e	-5.377776356594712	0.2	h_e	import
+651	roseobacter	galapagos	1.1e-06	EX_acald_e	-0.5	0.2	acald_e	import
+661	roseobacter	galapagos	1.1e-06	EX_gly_asn__L_e	-0.10347839237471716	0.2	gly_asn__L_e	import
+669	roseobacter	galapagos	1.1e-06	EX_g3pg_e	-0.5	0.2	g3pg_e	import
+670	roseobacter	galapagos	1.1e-06	EX_ura_e	-0.1422486086561248	0.2	ura_e	import
+675	roseobacter	galapagos	1.1e-06	EX_cys__L_e	-0.03956007852018919	0.2	L_Cystine[e]	import
+679	roseobacter	galapagos	1.1e-06	EX_ch4s_e	0.10142979955047338	0.2	ch4s_e	export
+682	roseobacter	galapagos	1.1e-06	EX_h2s_e	4.2927295585952244e-05	0.2	h2s_e	export
+690	roseobacter	galapagos	1.1e-06	EX_cu2_e	-0.0003043545257044014	0.2	cu2_e	import
+692	roseobacter	galapagos	1.1e-06	EX_o2_e	-12.996117457708287	0.2	o2_e	import
+693	roseobacter	galapagos	1.1e-06	EX_mg2_e	-0.003723942892081357	0.2	mg2_e	import
+694	roseobacter	galapagos	1.1e-06	EX_fe3dcit_e	-0.49329829920657553	0.2	fe3dcit_e	import
+707	roseobacter	galapagos	1.1e-06	EX_glyc_e	-2.6044032645797666	0.2	glyc_e	import
+708	roseobacter	galapagos	1.1e-06	EX_ptsla_e	-0.5	0.2	ptsla_e	import
+713	roseobacter	galapagos	1.1e-06	EX_bz_e	-4.2927295585952244e-05	0.2	bz_e	import
+723	roseobacter	galapagos	1.1e-06	EX_ptrc_e	-0.019582416605954913	0.2	ptrc_e	import
+724	roseobacter	galapagos	1.1e-06	EX_25dkglcn_e	-0.5	0.2	25dkglcn_e	import
+728	roseobacter	galapagos	1.1e-06	EX_dxyl_e	-0.4726393976793189	0.2	dxyl_e	import
+735	polaribacter	galapagos	1.1e-06	EX_thymd_e	-0.011230362885725386	0.2	thymd_e	import
+739	polaribacter	galapagos	1.1e-06	EX_so4_e	-0.0018618556217334223	0.2	so4_e	import
+741	polaribacter	galapagos	1.1e-06	EX_fol_e	-0.0002871326442922221	0.2	fol_e	import
+748	polaribacter	galapagos	1.1e-06	EX_ile__L_e	-0.12465119095537484	0.2	ile__L_e	import
+751	polaribacter	galapagos	1.1e-06	EX_his__L_e	-0.44436393422937526	0.2	his__L_e	import
+753	polaribacter	galapagos	1.1e-06	EX_co2_e	9.290285757668586	0.2	co2_e	export
+757	polaribacter	galapagos	1.1e-06	EX_lys__L_e	-0.042478891929235985	0.2	lys__L_e	import
+767	polaribacter	galapagos	1.1e-06	EX_cytd_e	-0.1307457851989467	0.2	cytd_e	import
+772	polaribacter	galapagos	1.1e-06	EX_k_e	-0.08377620663278283	0.2	k_e	import
+776	polaribacter	galapagos	1.1e-06	EX_progly_e	-0.09487609369808245	0.2	progly_e	import
+777	polaribacter	galapagos	1.1e-06	EX_cl_e	-0.002233969228013477	0.2	cl_e	import
+778	polaribacter	galapagos	1.1e-06	EX_ser__L_e	5.478349266173852	0.2	ser__L_e	export
+780	polaribacter	galapagos	1.1e-06	EX_dad_2_e	-0.022825972229287367	0.2	dad_2_e	import
+789	polaribacter	galapagos	1.1e-06	EX_met__L_e	-0.06610016653931365	0.2	met__L_e	import
+790	polaribacter	galapagos	1.1e-06	EX_thm_e	-9.571088143074071e-05	0.2	thm_e	import
+800	polaribacter	galapagos	1.1e-06	EX_ac_e	-0.8749782033714986	0.2	ac_e	import
+801	polaribacter	galapagos	1.1e-06	EX_ca2_e	-0.002233969228013477	0.2	ca2_e	import
+802	polaribacter	galapagos	1.1e-06	EX_nh4_e	0.5	0.2	nh4_e	export
+803	polaribacter	galapagos	1.1e-06	EX_orn_e	-0.324708194713113	0.2	orn_e	import
+806	polaribacter	galapagos	1.1e-06	EX_ser__D_e	-0.5	0.2	ser__D_e	import
+807	polaribacter	galapagos	1.1e-06	EX_trp__L_e	-0.02439683243572912	0.2	trp__L_e	import
+812	polaribacter	galapagos	1.1e-06	EX_tyr__L_e	-0.05918451885997049	0.2	tyr__L_e	import
+819	polaribacter	galapagos	1.1e-06	EX_phe__L_e	-0.07951514102361515	0.2	phe__L_e	import
+822	polaribacter	galapagos	1.1e-06	EX_mn2_e	-0.0002965749734019813	0.2	mn2_e	import
+823	polaribacter	galapagos	1.1e-06	EX_ncam_e	0.17106793371988377	0.2	ncam_e	export
+825	polaribacter	galapagos	1.1e-06	EX_arg__L_e	-0.1269529732742675	0.2	arg__L_e	import
+826	polaribacter	galapagos	1.1e-06	EX_R3hdec4e_e	-0.5	0.2	R3hdec4e_e	import
+830	polaribacter	galapagos	1.1e-06	EX_thr__L_e	-0.1088816429485216	0.2	thr__L_e	import
+833	polaribacter	galapagos	1.1e-06	EX_h2o_e	1.2221550812948	0.2	h2o_e	export
+834	polaribacter	galapagos	1.1e-06	EX_cit_e	0.8749782033714985	0.2	cit_e	export
+836	polaribacter	galapagos	1.1e-06	EX_zn2_e	-0.00014635610120126717	0.2	zn2_e	import
+837	polaribacter	galapagos	1.1e-06	EX_fe2_e	-0.0028820563623651292	0.2	fe2_e	import
+839	polaribacter	galapagos	1.1e-06	EX_acnam_e	-0.5	0.2	acnam_e	import
+845	polaribacter	galapagos	1.1e-06	EX_pydxn_e	-9.571088143074071e-05	0.2	pydxn_e	import
+848	polaribacter	galapagos	1.1e-06	EX_cobalt2_e	-4.291967777163261e-05	0.2	cobalt2_e	import
+851	polaribacter	galapagos	1.1e-06	EX_nmn_e	-0.4425783121701675	0.2	nmn_e	import
+852	polaribacter	galapagos	1.1e-06	EX_ppap_e	0.019350374041551266	0.2	ppap_e	export
+859	polaribacter	galapagos	1.1e-06	EX_leu__L_e	-0.09307605989013916	0.2	leu__L_m	import
+860	polaribacter	galapagos	1.1e-06	EX_LalaDgluMdap_e	0.39215237463485225	0.2	LalaDgluMdap_e	export
+864	polaribacter	galapagos	1.1e-06	EX_gly_asn__L_e	-0.29308121618623	0.2	gly_asn__L_e	import
+868	polaribacter	galapagos	1.1e-06	EX_adn_e	-0.16896318307389463	0.2	adn_e	import
+869	polaribacter	galapagos	1.1e-06	EX_ura_e	-0.0002472173439644898	0.2	ura_e	import
+871	polaribacter	galapagos	1.1e-06	EX_nac_e	0.2705326681906441	0.2	nac_e	export
+875	polaribacter	galapagos	1.1e-06	EX_cys__L_e	-0.46043992147981083	0.2	L_Cystine[e]	import
+880	polaribacter	galapagos	1.1e-06	EX_LalaDgluMdapDala_e	-0.39215237463485225	0.2	LalaDgluMdapDala_e	import
+883	polaribacter	galapagos	1.1e-06	EX_h2s_e	0.4209297829103571	0.2	h2s_e	export
+890	polaribacter	galapagos	1.1e-06	EX_d23hb_e	0.49995708032222835	0.2	d23hb_e	export
+891	polaribacter	galapagos	1.1e-06	EX_cu2_e	-0.00030430051540087516	0.2	cu2_e	import
+892	polaribacter	galapagos	1.1e-06	EX_o2_e	-9.478372706924	0.2	o2_e	import
+893	polaribacter	galapagos	1.1e-06	EX_mg2_e	-0.0037232820466891283	0.2	mg2_e	import
+894	polaribacter	galapagos	1.1e-06	EX_fe3dcit_e	-0.0033511684404090736	0.2	fe3dcit_e	import
+904	polaribacter	galapagos	1.1e-06	EX_chor_e	-0.5	0.2	chor_e	import
+910	polaribacter	galapagos	1.1e-06	EX_gua_e	-0.01159560934356198	0.2	gua_e	import
+911	polaribacter	galapagos	1.1e-06	EX_glyc_e	2.6044032645797666	0.2	glyc_e	export
+916	polaribacter	galapagos	1.1e-06	EX_14glucan_e	-0.5	0.2	14glucan_e	import
+923	polaribacter	galapagos	1.1e-06	EX_hxan_e	-0.5	0.2	hxan_e	import
+935	polaribacter	galapagos	1.1e-06	EX_asn__L_e	-0.5	0.2	L_Asparagine[e]	import
+947	pelagibacter	galapagos	1.1e-06	EX_glyphe_e	-0.1387690259282183	0.2	glyphe_e	import
+948	pelagibacter	galapagos	1.1e-06	EX_so4_e	-0.0018615022217444617	0.2	so4_e	import
+951	pelagibacter	galapagos	1.1e-06	EX_4ahmmp_e	-9.569271448801636e-05	0.2	4ahmmp_e	import
+955	pelagibacter	galapagos	1.1e-06	EX_ile__L_e	-0.26139307116284877	0.2	ile__L_e	import
+958	pelagibacter	galapagos	1.1e-06	EX_co2_e	10.865432255224837	0.2	co2_e	export
+963	pelagibacter	galapagos	1.1e-06	EX_lys__L_e	-0.1472556394458394	0.2	lys__L_e	import
+969	pelagibacter	galapagos	1.1e-06	EX_4hba_e	9.569271448801636e-05	0.2	4hba_e	export
+971	pelagibacter	galapagos	1.1e-06	EX_glymet_e	-0.06608762002504444	0.2	glymet_e	import
+979	pelagibacter	galapagos	1.1e-06	EX_k_e	-0.08376030501820349	0.2	k_e	import
+980	pelagibacter	galapagos	1.1e-06	EX_diact_e	-0.5	0.2	diact_e	import
+983	pelagibacter	galapagos	1.1e-06	EX_progly_e	-0.09485808520694375	0.2	progly_e	import
+984	pelagibacter	galapagos	1.1e-06	EX_cl_e	-0.002233545196906391	0.2	cl_e	import
+986	pelagibacter	galapagos	1.1e-06	EX_glu__L_e	-0.5	0.2	L_Glutamate[e]	import
+993	pelagibacter	galapagos	1.1e-06	EX_alltn_e	-0.2128386901236592	0.2	alltn_e	import
+997	pelagibacter	galapagos	1.1e-06	EX_glcur_e	-0.5	0.2	glcur_e	import
+998	pelagibacter	galapagos	1.1e-06	EX_hishis_e	-0.020326763195438777	0.2	hishis_e	import
+1002	pelagibacter	galapagos	1.1e-06	EX_ade_e	-0.08766697081506561	0.2	ade_e	import
+1008	pelagibacter	galapagos	1.1e-06	EX_glyc2p_e	-0.4231476049669805	0.2	glyc2p_e	import
+1011	pelagibacter	galapagos	1.1e-06	EX_ac_e	3.274269702749052	0.2	ac_e	export
+1012	pelagibacter	galapagos	1.1e-06	EX_ca2_e	-0.002233545196906391	0.2	ca2_e	import
+1013	pelagibacter	galapagos	1.1e-06	EX_nh4_e	1.5560379220370084	0.2	nh4_e	export
+1014	pelagibacter	galapagos	1.1e-06	EX_orn_e	-0.07088949062113281	0.2	orn_e	import
+1016	pelagibacter	galapagos	1.1e-06	EX_trp__L_e	-0.02439220165758885	0.2	trp__L_e	import
+1018	pelagibacter	galapagos	1.1e-06	EX_cellb_e	0.03249491548349703	0.2	cellb_e	export
+1023	pelagibacter	galapagos	1.1e-06	EX_malthp_e	-0.03249491548349703	0.2	malthp_e	import
+1025	pelagibacter	galapagos	1.1e-06	EX_asp__D_e	-0.31725660624255175	0.2	asp__D_e	import
+1029	pelagibacter	galapagos	1.1e-06	EX_mn2_e	-0.00029651868031936905	0.2	mn2_e	import
+1031	pelagibacter	galapagos	1.1e-06	EX_arg__L_e	-0.0560393856292678	0.2	arg__L_e	import
+1034	pelagibacter	galapagos	1.1e-06	EX_thr__L_e	-0.10886097605525294	0.2	thr__L_e	import
+1036	pelagibacter	galapagos	1.1e-06	EX_h2o_e	7.545939682246872	0.2	h2o_e	export
+1037	pelagibacter	galapagos	1.1e-06	EX_cit_e	-1.3749782033714986	0.2	cit_e	import
+1040	pelagibacter	galapagos	1.1e-06	EX_zn2_e	-0.00014632832125746	0.2	zn2_e	import
+1041	pelagibacter	galapagos	1.1e-06	EX_fe2_e	-0.002881509317430627	0.2	fe2_e	import
+1045	pelagibacter	galapagos	1.1e-06	EX_gthrd_e	-0.03964124337080033	0.2	gthrd_e	import
+1046	pelagibacter	galapagos	1.1e-06	EX_glygln_e	-0.5	0.2	glygln_e	import
+1048	pelagibacter	galapagos	1.1e-06	EX_cobalt2_e	-4.2911531160545455e-05	0.2	cobalt2_e	import
+1051	pelagibacter	galapagos	1.1e-06	EX_h_e	-3.776174116501957	0.2	h_e	import
+1062	pelagibacter	galapagos	1.1e-06	EX_gly_asn__L_e	-0.10344039143905284	0.2	gly_asn__L_e	import
+1069	pelagibacter	galapagos	1.1e-06	EX_LalaDgluMdapDala_e	-0.042911531160545455	0.2	LalaDgluMdapDala_e	import
+1071	pelagibacter	galapagos	1.1e-06	EX_h2s_e	4.2911531160545455e-05	0.2	h2s_e	export
+1072	pelagibacter	galapagos	1.1e-06	EX_fuc_e	-0.5	0.2	fuc_e	import
+1080	pelagibacter	galapagos	1.1e-06	EX_cu2_e	-0.0003042427559282672	0.2	cu2_e	import
+1081	pelagibacter	galapagos	1.1e-06	EX_o2_e	-6.843992825717056	0.2	o2_e	import
+1082	pelagibacter	galapagos	1.1e-06	EX_mg2_e	-0.0037225753281773183	0.2	mg2_e	import
+1083	pelagibacter	galapagos	1.1e-06	EX_fe3dcit_e	-0.003350532353015389	0.2	fe3dcit_e	import
+1090	pelagibacter	galapagos	1.1e-06	EX_gua_e	-0.1043728590111715	0.2	gua_e	import
+1093	pelagibacter	galapagos	1.1e-06	EX_bz_e	-4.2911531160545455e-05	0.2	bz_e	import

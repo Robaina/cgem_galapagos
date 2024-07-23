@@ -1,0 +1,6 @@
+sample_id	id	abundance	file
+galapagos	synechococcus	100	published_gems/synechococcus/synechococcus_standard_minmedia.xml
+galapagos	prochlorococcus	100	published_gems/prochlorococcus/prochlorococcus_standard_minmedia.xml
+galapagos	pelagibacter	100	published_gems/pelagibacter/pelagibacter_standard_minmedia.xml
+galapagos	polaribacter	100	published_gems/polaribacter/polaribacter_standard_minmedia.xml
+galapagos	roseobacter	100	published_gems/roseobacter/roseobacter_standard_minmedia.xml
